@@ -1,0 +1,32 @@
+@import '~antd/dist/antd.css';
+.App {
+  text-align: left;
+  font-family: Monospace;
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}
+.container-background {
+  position: relative;
+}
+
+.flex {
+  margin-top: 50px;
+  margin-left: 250px;
+  margin-bottom: 100px;
+}
+.flex-col {
+  margin-bottom: 50px;
+  align-content: center;
+}
+.container-background img { 
+  height:100%; 
+  width:100%; 
+}
+
+.container-content {
+  background-color:#494949;
+}
+.menu-item-right {
+  float: right;
+}
