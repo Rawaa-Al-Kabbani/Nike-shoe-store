@@ -1,3 +1,5 @@
+![alt text](https://github.com/Rawaa-Al-Kabbani/Nike-shoe-store/blob/master/preview/nike.png?raw=true)
+
 # Nike application
 
 Nike is a website for displaying Nike shoes written in React.js and Ant Design.
